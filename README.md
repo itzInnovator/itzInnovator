@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi there This is Innovator! 
+• Mainly Interested in JavaScript, Developing Bots & Apps.
+• I’m currently learning html & css.
+• I’m looking to collaborate on Discord Bots.
 
-<!--
-**itzInnovator/itzInnovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• To contact, Email on innovatordiscord@gmail.com  I'll try to reply as soon as possible. 
 
-Here are some ideas to get you started:
+  Discord Username: Innovator#0001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Projects
+⥼ Covid Statistics:
+
+Covid statistics bot provide you Information about COVID-19 and helps you in Tracking the Covid-19  Cases of a particular Country, Continent or Worldwide Cases.
+Invite: https://dsc.gg/covidstats
+
+⥼ Core:
+Core is an Advanced Fun Bot with numerous kinds of Commands like meme, tictactoe, Translate, Akinator, Search, Weather, and Many More.
+Invite: https://dsc.gg/corebot
