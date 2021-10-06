@@ -7,9 +7,6 @@
 • I’m looking to collaborate on Discord Bots.
 
 
-• To contact, Email on innovatordiscord@gmail.com  I'll try to reply as soon as possible. 
-
-
   Discord Username: Innovator#0001
   
 
