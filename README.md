@@ -6,8 +6,10 @@
 
 • I’m looking to collaborate on Discord Bots.
 
+
  
  Email: itzinnovator01@gmail.com
+ 
  Discord Username: Innovator#8952
 
 
