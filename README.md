@@ -1,8 +1,8 @@
-### 👋 Hey there This is Innovator! 
+# 👋 Heya there, this is Innovator! 
 
 • Mainly Interested in JavaScript, Developing Bots & Apps.
 
-• I’m currently learning html & css.
+• I’m currently learning HTML & CSS.
 
 • I’m looking to collaborate on Discord Bots.
 
