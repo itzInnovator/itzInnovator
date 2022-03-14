@@ -1,15 +1,12 @@
-# 👋 Heya there, this is Innovator! 
+### 👋 Heya there, this is Innovator!
 
-• Mainly Interested in JavaScript, Developing Bots & Apps.
+<br> • Mainly Interested in JavaScript, Developing Bots and APIs.
+<br> • I’m currently learning HTML & CSS.
+<br> • I’m looking to collaborate on Discord Bots.
 
-• I’m currently learning HTML & CSS.
-
-• I’m looking to collaborate on Discord Bots.
-
+<br> Email: itzinnovator01@gmail.com
  
- Email: itzinnovator01@gmail.com
- 
- Discord: Innovator#8952
+<br> Discord: Innovator#8952
 
 
 
