@@ -3,9 +3,11 @@
 <br> • I’m currently learning HTML & CSS.
 <br> • I’m looking to collaborate on Discord Bots.
 
-<br> Email: itzinnovator01@gmail.com
 
-<br> Discord: Innovator#8952
+Email: itzinnovator01@gmail.com
+
+
+Discord: [Innovator#8952](https://discord.com/users/753845579670487128)
 
 
 
