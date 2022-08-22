@@ -1,5 +1,5 @@
 ### 👋 Heya there, this is Innovator!
-<br> • Mainly Interested in JavaScript, Developing Bots and APIs.
+<br> • Mainly Interested in JavaScript, Developing Bots and APIs. Though I'm always open to learn something new!
 <br> • I’m currently working on Core.
 <br> • I’m currently learning HTML & CSS.
 <br> • I’m looking to collaborate on Discord Bots.
